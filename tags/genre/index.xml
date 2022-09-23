@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genre on Nithin Premkumar</title>
+    <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/genre/</link>
+    <description>Recent content in Genre on Nithin Premkumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/genre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Movie Genre Classifier</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 19 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/post/project-1/</guid>
+      <description>Final Year Undergraduate Project, worked in a team of four and coordinated the team in the project. Created a bi-directional Long Short-Term Memory (LSTM) Model to classify into top five genres: thrillers, Crime Fiction, Romance, Action, and Short films. The data used for the project was from the CMU Movie Summary Corpus (http://www.cs.cmu.edu/~ark/personas/) collected by David Bamman, Brendan O&amp;rsquo;Connor, and Noah Smith at the Language Technologies Institute and Machine Learning Department at Carnegie Mellon University.</description>
+    </item>
+    
+  </channel>
+</rss>

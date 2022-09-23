@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nithin Premkumar</title>
+    <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/</link>
+    <description>Recent content in Tags on Nithin Premkumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARIMA</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/arima/</link>
+      <pubDate>Wed, 20 Apr 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/arima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/r/</link>
+      <pubDate>Wed, 20 Apr 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/time-series/</link>
+      <pubDate>Wed, 20 Apr 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genre</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/genre/</link>
+      <pubDate>Tue, 19 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/genre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSTM</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/lstm/</link>
+      <pubDate>Tue, 19 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/nlp/</link>
+      <pubDate>Tue, 19 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/python/</link>
+      <pubDate>Tue, 19 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://nithinpremkumar1999.github.io/Nithin_Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
